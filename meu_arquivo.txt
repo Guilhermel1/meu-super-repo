@@ -1,2 +1,3 @@
 Meu primeiro repositório Git.
 Alterando aquivo com uma nova branch
+Na branch2 alterei também o arquivo
