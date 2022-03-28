@@ -1,1 +1,2 @@
 Meu primeiro repositório Git.
+Na branch2 alterei também o arquivo
